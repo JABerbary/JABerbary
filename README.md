@@ -1,16 +1,28 @@
-### Hi there 👋
+### Welcome to My GitHub Profile 👋
 
-<!--
-**JABerbary/JABerbary** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Contact
 
-Here are some ideas to get you started:
+<table>
+  <tr>
+    <td>
+      <a href="mailto:augustoberbary@gmail.com">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" width="20" height="20">
+      </a>
+    </td>
+    <td>
+      <a href="mailto:augustoberbary@gmail.com">augustoberbary@gmail.com</a>
+    </td>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+    <td>
+      <a href="https://www.linkedin.com/in/augustoberbary/">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="20" height="20">
+      </a>
+    </td>
+    <td>
+      <a href="https://www.linkedin.com/in/augustoberbary/">LinkedIn</a>
+    </td>
+  </tr>
+</table>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
