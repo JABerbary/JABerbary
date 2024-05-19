@@ -1,8 +1,16 @@
-### Welcome to My GitHub Profile 👋
+<div align="center">
+  <h2>Welcome to My GitHub Profile 👋</h1>
+</div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JABerbary&&layout=pie&langs_count=9)
-## Contact
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JABerbary&layout=pie&langs_count=9" alt="Top Langs" />
+  </a>
+</div>
+ 
 
+<div align="center">
+  <h2>Contact</h2>
 <table>
   <tr>
     <td>
@@ -24,6 +32,7 @@
     </td>
   </tr>
 </table>
+</div>
 
 
 
