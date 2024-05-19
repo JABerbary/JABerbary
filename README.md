@@ -1,8 +1,6 @@
 ### Welcome to My GitHub Profile 👋
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JABerbary&layout=compact&theme=dark)
-
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JABerbary&&layout=pie&langs_count=9)
 ## Contact
 
 <table>
